@@ -69,7 +69,7 @@ The goal was to explore Bootstrap components and combine them into clean, modern
 ---
 
 ## ⏳ Time Taken
-Approx. **6–7 hours** over 2 days.  
+Approx. **45 min** over a days.  
 
 ---
 
@@ -79,5 +79,6 @@ I used:
 - **ChatGPT (AI assistance)** → for guidance, polishing code, and writing README.  
 - **Formspree** → for functional forms.  
 - Manual coding & testing → to implement and style the project.  
+
 
 
