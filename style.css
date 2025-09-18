@@ -1,0 +1,132 @@
+/* ===========================
+   Global Styles
+   =========================== */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+/* Section padding */
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+/* ===========================
+   Navbar
+   =========================== */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.navbar-nav .nav-link {
+  margin-left: 12px;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link.active {
+  color: #f39c12 !important;
+}
+
+/* ===========================
+   Hero Carousel
+   =========================== */
+.carousel-caption h1 {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-caption p {
+  font-size: 1.2rem;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* ===========================
+   Cards
+   =========================== */
+.card {
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* ===========================
+   Contact Form
+   =========================== */
+form .form-control {
+  border-radius: 8px;
+  box-shadow: none;
+  border: 1px solid #ccc;
+  padding: 10px 12px;
+}
+
+form .form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+form .btn-primary {
+  background: #007bff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  transition: background 0.3s ease;
+}
+
+form .btn-primary:hover {
+  background: #0056b3;
+}
+
+/* ===========================
+   Modal
+   =========================== */
+.modal-content {
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+.modal-title {
+  font-weight: 600;
+}
+
+.modal .btn-success {
+  border-radius: 8px;
+  padding: 10px;
+  transition: background 0.3s ease;
+}
+
+.modal .btn-success:hover {
+  background: #218838;
+}
+
+/* ===========================
+   Footer
+   =========================== */
+footer {
+  font-size: 0.9rem;
+  background-color: #222 !important;
+  color: #aaa !important;
+}
+
+footer p {
+  margin: 0;
+}
