@@ -1,7 +1,7 @@
 # 🚀 Bootstrap 5 Internship Task — MySite
 
 ## 🔗 Live Demo
-👉 [View Website](https://raziya5h1.github.io/bootstrap-task/)  
+👉 [View Website]([https://raziya5h1.github.io/bootstrap-task/](https://raziya5h1.github.io/Bootstrap_Task/))  
 
 
 ---
@@ -79,6 +79,7 @@ I used:
 - **ChatGPT (AI assistance)** → for guidance, polishing code, and writing README.  
 - **Formspree** → for functional forms.  
 - Manual coding & testing → to implement and style the project.  
+
 
 
 
